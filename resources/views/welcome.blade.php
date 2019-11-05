@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel - depoly from github -
+                    Laravel - Automatic Deploys -
                 </div>
 
             </div>
